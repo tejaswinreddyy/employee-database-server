@@ -1,0 +1,37 @@
+{
+  "Employee": [
+    {
+      "id": "fb0e",
+      "fn": "User",
+      "ln": "1",
+      "email": "user1@gmail.com",
+      "mob": "9876543210",
+      "age": "22",
+      "gender": "",
+      "password": "User@123",
+      "cpassword": "User@123"
+    },
+    {
+      "id": "707a",
+      "fn": "User",
+      "ln": "2",
+      "email": "user2@gmail.com",
+      "mob": "9876543210",
+      "age": "23",
+      "gender": "",
+      "password": "User@123",
+      "cpassword": "User@123"
+    },
+    {
+      "id": "1f28",
+      "fn": "User",
+      "ln": "Three",
+      "email": "user3@gmail.com",
+      "mob": "9876543210",
+      "age": "25",
+      "gender": "",
+      "password": "User@123",
+      "cpassword": "User@123"
+    }
+  ]
+}
